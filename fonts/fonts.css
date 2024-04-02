@@ -1,0 +1,80 @@
+/* -- SF Pro Rounded Bold -- */
+
+@font-face {
+  font-family: "SF Pro Rounded Bold";
+  src: url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.eot");
+  src: url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.eot?#iefix")
+      format("embedded-opentype"),
+    url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.woff")
+      format("woff"),
+    url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.woff2")
+      format("woff2"),
+    url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.ttf")
+      format("truetype"),
+    url("./SF-Pro-Rounded-Bold/511031ed9122c8ea1450b18b876221fe.svg#SF Pro Rounded Bold")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* -- SF Pro Rounded Black -- */
+
+@font-face {
+  font-family: "SF Pro Rounded Black";
+  src: url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.eot");
+  src: url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.eot?#iefix")
+      format("embedded-opentype"),
+    url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.woff") format("woff"),
+    url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.woff2") format("woff2"),
+    url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.ttf") format("truetype"),
+    url("./SF-Pro-Rounded-Black/f21b6798a1a7869a95584a3c9cb456a4.svg#SF Pro Rounded") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* -- SF Pro Rounded Semibold -- */
+
+@font-face{
+    font-family: "SF Pro Rounded Semibold";
+    src: url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.eot");
+    src: url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.eot?#iefix")format("embedded-opentype"),
+        url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.woff")format("woff"),
+        url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.woff2")format("woff2"),
+        url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.ttf")format("truetype"),
+        url("./SF-Pro-Rounded-Semibold/49cf9e586b122fd8b8cf67c4df697fb9.svg#SF Pro Rounded Semibold")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+
+/* -- SF Pro Rounded Regular -- */
+
+@font-face{
+    font-family: "SF Pro Rounded Regular";
+    src: url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.eot");
+    src: url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.eot?#iefix")format("embedded-opentype"),
+        url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.woff")format("woff"),
+        url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.woff2")format("woff2"),
+        url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.ttf")format("truetype"),
+        url("./SF-Pro-Rounded-Regular/c308bda9ff13c5239c99b48dc147bde0.svg#SF Pro Rounded")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
+
+/* -- SF Pro Rounded Light -- */
+
+@font-face{
+    font-family: "SF Pro Rounded Light";
+    src: url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.eot");
+    src: url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.eot?#iefix")format("embedded-opentype"),
+        url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.woff")format("woff"),
+        url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.woff2")format("woff2"),
+        url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.ttf")format("truetype"),
+        url("./SF-Pro-Rounded-Light/9d7d67ddafe335638268099d497d864d.svg#SF Pro Rounded Light")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
+}
